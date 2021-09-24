@@ -1,0 +1,24 @@
+{
+  "name": "odev-1-serhatyigit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patika-hepsiburada-react-bootcamp/odev-1-serhatyigit.git"
+  },
+  "author": "Serhat Yigit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-serhatyigit/issues"
+  },
+  "homepage": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-serhatyigit#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
